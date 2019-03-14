@@ -1,0 +1,75 @@
+   "cpfCnpj": "35405658000168",
+    "razao": "teste",
+    "fantasia": "teste",
+    "cnae": "7490104",
+    "cep": "30494275",
+    "endereco": "Avenida Barão Homem de Melo - de 3217 ao fim - lado ímpar",
+    "numero": "4391",
+    "complemento": "",
+    "bairro": "Estoril",
+    "cidade": 3106200,
+    "operacaoCaixa": "",
+    "banco": 341,
+    "agencia": "6590",
+    "agenciaDV": "",
+    "conta": "1211444",
+    "contribuinte": false,
+	"inscricaoEstadual": "",
+	"nomeProprietario": "teste",
+	"cpfProprietario": "24825777058",
+    "contaPoupanca": false,
+    "numDiasAntecipacao": 1,
+    "taxaAntecipacao": 2.95,
+    "contatos": [],
+    "emails": [
+        {
+            "nome": "Teste RJ Consultores",
+            "email": "felipe.moreno@granito.com.vc"
+        }
+    ],
+    "telefones": [
+        {
+            "nome": "Teste RJ Consultores",
+            "telefone": "11111111111"
+        }
+    ],
+    "ecommerce": true,
+    "tipoCobranca": "TAXA",
+    "taxas": [
+        {
+            "bandeira": "American Express",
+            "taxaDebito": 4.99,
+            "taxaCreditoAVista": 4.99,
+            "taxaCredito2a6": 4.99,
+            "taxaCredito7a12": 4.99
+        },
+        {
+            "bandeira": "Elo",
+            "taxaDebito": 4.99,
+            "taxaCreditoAVista": 4.99,
+            "taxaCredito2a6": 4.99,
+            "taxaCredito7a12": 4.99
+        },
+        {
+            "bandeira": "Hipercard",
+            "taxaDebito": 4.99,
+            "taxaCreditoAVista": 4.99,
+            "taxaCredito2a6": 4.99,
+            "taxaCredito7a12": 4.99
+        },
+        {
+            "bandeira": "Mastercard",
+            "taxaDebito": 4.99,
+            "taxaCreditoAVista": 4.99,
+            "taxaCredito2a6": 4.99,
+            "taxaCredito7a12": 4.99
+        },
+        {
+            "bandeira": "Visa",
+            "taxaDebito": 4.99,
+            "taxaCreditoAVista": 4.99,
+            "taxaCredito2a6": 4.99,
+            "taxaCredito7a12": 4.99
+        }
+    ]
+}
