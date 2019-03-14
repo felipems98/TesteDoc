@@ -1,4 +1,6 @@
-   "cpfCnpj": "35405658000168",
+Teste   
+
+"cpfCnpj": "35405658000168",
     "razao": "teste",
     "fantasia": "teste",
     "cnae": "7490104",
